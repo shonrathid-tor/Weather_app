@@ -1,15 +1,30 @@
-# React + Vite
-Weather app : 
+# 🌦️ React Weather App
 
- Feature 
+A modern weather application built with **React** and **Vite**, using real-time weather data from the OpenWeatherMap API. Enter a city name to get the current temperature, weather condition, humidity, and more.
 
-> MY app has connected with API weater provider 
+## 🚀 Features
 
+- ⚡ Built with Vite for fast performance
+- 🔍 Search weather by city name
+- 🌡️ Displays:
+  - Temperature
+  - Weather condition (Clouds, Rain, Clear, etc.)
+  - Humidity
+  - Wind speed
+- 🌐 Real-time data using OpenWeatherMap API
 
-> The app already update reatime 
+## 🛠️ Tech Stack
 
-> Where ever you live The app do provide your weather information 
+- **React** (Functional components + Hooks)
+- **Vite** (Frontend build tool)
+- **JavaScript**
+- **CSS** (or Tailwind if used)
+- **OpenWeatherMap API**
 
-## 🛠 TOOLS
-Javascript, HTML, CSS...
+## 📸 Preview
 
+```text
+Bangkok 🌥
+Temperature: 30°C
+Humidity: 65%
+Wind: 14 km/h
